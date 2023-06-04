@@ -4,4 +4,7 @@ weight = input("enter your weight in kg: ")
 BMI = int(weight)/float(height) ** 2
 bmi_as_int = int(BMI)
 
-print(bmi_as_int)
+print("the BMI is "+str(bmi_as_int))
+
+#f-String 
+print(f"the BMI is for the height :{height},anf for the wight :{weight} is {BMI}")
