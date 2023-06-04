@@ -15,3 +15,9 @@ b = c;
 
 print("a is " +a)
 print("b is " +b)
+
+# The above code will give the output as a :5
+#b :100
+#a is 100
+#b is 5
+
