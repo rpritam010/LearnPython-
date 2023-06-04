@@ -9,3 +9,5 @@ print("Your name has "+ new_num_char + " characters.")
 
 a = str(123)
 print(type(a))
+
+print(6 + 4/2 - (1 * 2))
