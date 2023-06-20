@@ -5,4 +5,3 @@ for n in range(0,len(student_scores)):
     if heighest_score < student_scores[n]:
         heighest_score = student_scores[n]
 print(heighest_score)
-    
